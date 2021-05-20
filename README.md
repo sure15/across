@@ -1,4 +1,9 @@
 # unixbench.sh 非常有用
+```
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/unixbench.sh
+chmod +x unixbench.sh
+./unixbench.sh
+```
 ## Across the Great Wall we can reach every corner in the world
 
 ## wireguard.sh
